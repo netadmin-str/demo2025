@@ -19,6 +19,14 @@
 
 Проделываем эту процедуру для всех виртуальных машин.
 
+В виртуальных машинах с `Linux` нужно включить службу, добавить ее в автозагрузку и проверить статус:
+
+```
+systemctl start serial-getty@ttyS0.service
+systemctl enable serial-getty@ttyS0.service
+systemctl status serial-getty@ttyS0.service
+```
+
 Открывам любую консольку и подключаемся к `ESXi` с ее помощью по протоколу `telnet`
 
 В этом примере используется `PUTTY`
