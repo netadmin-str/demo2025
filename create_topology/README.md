@@ -18,7 +18,6 @@
 Установка `vESR`[->](./install_vesr/README.md)
 
 
-
 2. Создаем виртуальные сети.[->](./create_virtual_switch/README.md)
 
 3. Делаем внеполосное управление.[->](./mgmt/README.md)
