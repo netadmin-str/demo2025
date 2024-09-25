@@ -21,3 +21,4 @@
 2. Создаем виртуальные сети.[->](./create_virtual_switch/README.md)
 
 3. Делаем внеполосное управление.[->](./mgmt/README.md)
+4. Настройка консоли `vESR`.[->](./settings_vesr_console/README.md)
