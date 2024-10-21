@@ -7,3 +7,5 @@
 Назначаем IP. [->](./assign_ip/README.md)
 
 Настраиваем OSPF. [->](./ospf_conf/README.md)
+
+Настраиваем NAT [->](./nat/README.md)
