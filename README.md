@@ -9,3 +9,5 @@
 Настраиваем OSPF. [->](./ospf_conf/README.md)
 
 Настраиваем NAT [->](./nat/README.md)
+
+Настраиваем DHCP [->](./dhcp/README.md)
