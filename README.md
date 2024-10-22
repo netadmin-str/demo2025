@@ -11,3 +11,5 @@
 Настраиваем NAT [->](./nat/README.md)
 
 Настраиваем DHCP [->](./dhcp/README.md)
+
+Настраиваем DNS [->](./dns/README.md)
