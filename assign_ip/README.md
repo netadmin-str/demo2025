@@ -130,10 +130,16 @@ systemctl restart network
 
 ## HQ-CLI
 
+Предварительно нужно настроить `DHCP-сервер` на `HQ-RTR` [->](../dhcp/README.md)
+
 <img src="04.png" width='600'>
 <img src="05.png" width='600'>
 <img src="06.png" width='600'>
 <img src="07.png" width='600'>
+
+Если все сработало, то в выводе `ip a` увидим следующее
+
+<img src="08.png" width='600'>
 
 ## BR-RTR
 
