@@ -190,6 +190,10 @@ echo default via 192.168.1.1 > /etc/net/ifaces/ens192/ipv4route
 ```
 
 ```
+echo nameserver 192.168.0.2 > /etc/net/ifaces/ens192/resolv.conf
+```
+
+```
 systemctl restart network
 ```
 
