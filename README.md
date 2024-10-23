@@ -14,8 +14,10 @@
 
 Настраиваем OSPF. [->](./ospf_conf/README.md)
 
-Настраиваем NAT [->](./nat/README.md)
+Настраиваем NAT. [->](./nat/README.md)
 
-Настраиваем DHCP [->](./dhcp/README.md)
+Настраиваем DHCP. [->](./dhcp/README.md)
 
-Настраиваем DNS [->](./dns/README.md)
+Настраиваем DNS. [->](./dns/README.md)
+
+Настраиваем часовой пояс. [->](./timedate/README.md)
