@@ -230,7 +230,7 @@ systemctl restart bind
 Проверяем
 
 ```
-dig 192.168.0.2
+dig -x 192.168.0.2
 ```
 
 <img src="13.png" width='600'>
