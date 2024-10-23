@@ -10,6 +10,8 @@
 
 Создаем пользователей. [->](./create_users/README.md)
 
+Настраиваем SSH. [->](./ssh/README.md)
+
 Настраиваем OSPF. [->](./ospf_conf/README.md)
 
 Настраиваем NAT [->](./nat/README.md)

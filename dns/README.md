@@ -198,6 +198,8 @@ chmod 600 /var/lib/bind/etc/zone/au-team.irpo_rev.db
 nano /var/lib/bind/etc/zone/au-team.irpo_rev.db
 ```
 
+Вставляем в него следующее содержимое.
+
 ```
 $TTL    1D
 @       IN      SOA     au-team.irpo. root.au-team.irpo. (
