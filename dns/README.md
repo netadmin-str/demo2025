@@ -88,7 +88,7 @@ dig ya.ru
 
 <img src="07.png" width='600'>
 
-### Создаем зону прямого 
+### Создаем зону прямого просмотра
 
 ```
 nano  /var/lib/bind/etc/local.conf
