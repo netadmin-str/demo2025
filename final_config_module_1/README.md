@@ -242,6 +242,8 @@ echo 192.168.0.2/26 > /etc/net/ifaces/ens192/ipv4address
 
 echo default via 192.168.0.1 > /etc/net/ifaces/ens192/ipv4route
 
+echo nameserver 8.8.8.8 > /etc/net/ifaces/ens192/resolv.conf 
+
 systemctl restart network
 ```
 
@@ -330,7 +332,7 @@ logging {
 
 rm /etc/net/ifaces/ens192/resolv.conf 
 
-cat "search au-team.irpo
+echo "search au-team.irpo
 nameserver 127.0.0.1" > /etc/net/ifaces/ens192/resolv.conf 
 
 systemctl restart network
