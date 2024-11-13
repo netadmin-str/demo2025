@@ -85,7 +85,7 @@ blkid
 15. Добавляем в автозагрузку монтирование диска
 
 ```
-echo UUID=12a2d5e5-8a2c-4520-8679-012b9d35b83b       /raid5  ext4    defaults        0       0 > /etc/fstab
+echo "UUID=12a2d5e5-8a2c-4520-8679-012b9d35b83b       /raid5  ext4    defaults        0       0" > /etc/fstab
 ```
 
 16. Размонтируем существующий диск
