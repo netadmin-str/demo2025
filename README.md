@@ -2,22 +2,28 @@
 
 ## Решение Модуль № 1: Выполнение работ по проектированию сетевой инфраструктуры
 
-Создаем топологию на ESXi. [->](./create_topology/README.md)
+Создаем топологию на ESXi. [->](./module_01/create_topology/README.md)
 
-Распределяем IP. [->](./create_ipam/README.md)
+Распределяем IP. [->](./module_01/create_ipam/README.md)
 
-Назначаем IP. [->](./assign_ip/README.md)
+Назначаем IP. [->](./module_01/assign_ip/README.md)
 
-Создаем пользователей. [->](./create_users/README.md)
+Создаем пользователей. [->](./module_01/create_users/README.md)
 
-Настраиваем SSH. [->](./ssh/README.md)
+Настраиваем SSH. [->](./module_01/ssh/README.md)
 
-Настраиваем OSPF. [->](./ospf_conf/README.md)
+Настраиваем OSPF. [->](./module_01/ospf_conf/README.md)
 
-Настраиваем NAT. [->](./nat/README.md)
+Настраиваем NAT. [->](./module_01/nat/README.md)
 
-Настраиваем DHCP. [->](./dhcp/README.md)
+Настраиваем DHCP. [->](./module_01/dhcp/README.md)
 
-Настраиваем DNS. [->](./dns/README.md)
+Настраиваем DNS. [->](./module_01/dns/README.md)
 
-Настраиваем часовой пояс. [->](./timedate/README.md)
+Настраиваем часовой пояс. [->](./module_01/timedate/README.md)
+
+## Решение Модуль № 2: Выполнение работ по проектированию сетевой инфраструктуры
+
+Настройка RAID на HQ-SRV. [->](./module_02/RAID/README.md)
+
+Настройка NFS. [->](./module_02/NFS/README.md)
