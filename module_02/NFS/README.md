@@ -60,7 +60,7 @@ systemctl enable --now nfs-server
 systemctl status nfs-server.service 
 ```
 
-<img src="01.png" width='600'>
+<img src="02.png" width='600'>
 
 ## Настройка NFS клиента на HQ-CLI
 
